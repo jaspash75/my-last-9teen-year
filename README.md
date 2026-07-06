@@ -16,7 +16,7 @@ I hope that one day, whether it's my 20th birthday or many years later, I can co
 
 ---
 
-## 🐍 What This Project Demonstrates
+##  🎂What This Project Demonstrates
 
 This project is written in beginner-friendly Python and showcases fundamental programming concepts, including:
 
